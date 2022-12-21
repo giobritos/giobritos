@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovana de Brito Silva</h1>
 <h3 align="center">A passionate Data Engineer student from Brazil</h3>
 
-- 🌱 I’m currently learning **Python, SQL, Google Cloud, PySpark, Tableau, R**
+- 🌱 I’m currently learning **Python (Pandas, PySpark, Apache Beam), SQL (MySQL, BigQuery), Google Cloud Platform, MongoDB, Looker Studio, Tableau, R**
 
 - 📫 How to reach me **giovanadebritos@gmail.com**
 
