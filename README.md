@@ -7,14 +7,9 @@
 
 - ⚡ Fun fact **I am a Civil Engineer by graduation**
 
-<a href="https://github.com/giobritos/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giobritos&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/giobritos/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giobritos&repo=convoychat" />
-</a>
-
 ![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=giobritos&show_icons=true&theme=bear)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giobritos&langs_count=8)](https://github.com/giobritos/github-readme-stats)
+
 
 
 <div align="center">
