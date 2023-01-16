@@ -13,18 +13,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/giobritos">
-  ![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=giobritos&show_icons=true&theme=bear)
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/giobritos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giobritos&show_icons=true&theme=bear&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giobritos&layout=compact&langs_count=7&theme=bear"/>
-</div>
-
 ##
 
 <div>
