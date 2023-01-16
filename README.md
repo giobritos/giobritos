@@ -7,6 +7,10 @@
 
 - ⚡ Fun fact **I am a Civil Engineer by graduation**
 
+<a href="https://github.com/giobritos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giobritos&show_icons=true&theme=bear" />
+</a>
+
 <div align="center">
   <a href="https://github.com/giobritos">
   ![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=giobritos&show_icons=true&theme=bear)
