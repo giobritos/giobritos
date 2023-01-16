@@ -7,9 +7,9 @@
 
 - ⚡ Fun fact **I am a Civil Engineer by graduation**
 
+<div align="center">
 ![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=giobritos&show_icons=true&theme=bear)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giobritos&langs_count=8)](https://github.com/giobritos/github-readme-stats)
-
+</div>
 
 
 <div align="center">
