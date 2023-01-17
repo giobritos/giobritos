@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovana de Brito Silva</h1>
 <h3 align="center">A passionate Data Engineer from Brazil</h3>
 
-- 👩🏻‍💻 I can work with **Python (Pandas, PySpark, Apache Beam), SQL (MySQL, BigQuery), Google Cloud Platform, MongoDB, Looker Studio**
+- 🖥️ I can work with **Python (Pandas, PySpark, Apache Beam), SQL (MySQL, BigQuery), Google Cloud Platform, MongoDB, Looker Studio**
 
 - 🌱 I’m currently learning **PowerBI, Tableau, R**
 
