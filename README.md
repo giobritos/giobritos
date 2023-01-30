@@ -24,4 +24,3 @@
 </div>
   
  ![Snake animation](https://github.com/giobritos/giobritos/blob/output/github-contribution-grid-snake.svg)
-
