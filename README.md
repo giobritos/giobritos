@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Giovana de Brito Silva</h1>
 <h3 align="center">A passionate Jr. Data Engineer from Brazil</h3>
 
--💼 Currently working as a **Data Intern at Blu**
+- 💼 Currently working as a **Data Intern at Blu**
 
--📚 Studying **Information Technology** at Universidade Federal de Mato Grosso do Sul - UFMS
+- 📚 Studying **Information Technology** at Universidade Federal de Mato Grosso do Sul - UFMS
 
--👩🏻‍💻 Strong knowledge in **MS Excel, SQL, Metabase, Hubspot and Looker**
+- 👩🏻‍💻 Strong knowledge in **MS Excel, SQL, Metabase, Hubspot and Looker**
 
 - 🖥️ I like to work with **Python (Pandas, PySpark, Apache Beam, Matplotlib), SQL (SparkSQL, MySQL, BigQuery), Google Cloud Platform, MongoDB, Looker Studio**
 
