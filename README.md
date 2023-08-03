@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Giovana de Brito Silva</h1>
-<h3 align="center">A passionate Jr. Data Engineer from Brazil</h3>
+<h1 align="center">Hi there 👋, I'm Giovana de Brito Silva</h1>
+<h3 align="center">A passionate Jr. Data Engineer/Analyst from Brazil</h3>
+
+<div> <p align="center"> Welcome to my GitHub profile! </p> </div>
+
+- 💡 I love exploring and transforming data into valuable insights.
 
 - 💼 Currently working as a **Data Intern at Blu**
 
@@ -7,7 +11,7 @@
 
 - 👩🏻‍💻 Strong knowledge in **MS Excel, SQL, Metabase, Hubspot and Looker**
 
-- 🖥️ I like to work with **Python (Pandas, PySpark, Apache Beam, Matplotlib), SQL (SparkSQL, MySQL, BigQuery), Google Cloud Platform, MongoDB, Looker Studio**
+- 🖥️ I like to work with **Python (Pandas, PySpark, Apache Beam, Matplotlib), SQL (SparkSQL, MySQL, BigQuery), Google Cloud Platform, MongoDB, Looker**
 
 - 🌱 I’m currently learning **PowerBI, Tableau, R**
 
@@ -30,3 +34,7 @@
 </div>
   
  ![Snake animation](https://github.com/giobritos/giobritos/blob/output/github-contribution-grid-snake.svg)
+
+| GitHub Stats | Languages and Tools |
+| --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giobritos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=bear) | ![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=giobritos&layout=compact&theme=bear) |
