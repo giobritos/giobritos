@@ -5,9 +5,9 @@
 
 - 💡 I love exploring and transforming data into valuable insights.
 
-- 💼 Currently working as a **Data Intern at Blu**
+- 💼 Currently working as a **Business Analyst at Blu**
 
-- 📚 Studying **Information Technology** at Universidade Federal de Mato Grosso do Sul - UFMS
+- 📚 Studying **Data Science** at Universidade Federal de Mato Grosso do Sul - UFMS
 
 - 👩🏻‍💻 Strong knowledge in **MS Excel, SQL, Metabase, Hubspot and Looker**
 
