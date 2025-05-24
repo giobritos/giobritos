@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **PowerBI, Tableau, R**
 
-- 📫 How to reach me **giovanadebritos@gmail.com**
+- 📫 How to reach me **giovanadebritosilva@gmail.com**
 
 - ⚡ Fun fact **I am a Civil Engineer by first graduation**
 
