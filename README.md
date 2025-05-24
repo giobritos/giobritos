@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Giovana de Brito Silva</h1>
-<h3 align="center">A passionate Jr. Data Engineer/Analyst from Brazil</h3>
+<h3 align="center">A passionate Business/Data Analyst from Brazil</h3>
 
 <div> <p align="center"> Welcome to my GitHub profile! </p> </div>
 
 - 💡 I love exploring and transforming data into valuable insights.
 
-- 💼 Currently working as a **Business Analyst at Blu**
+- 💼 Currently working as a **Business Analyst at iFood**
 
 - 📚 Studying **Data Science** at Universidade Federal de Mato Grosso do Sul - UFMS
 
